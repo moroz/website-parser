@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 scraper = "0.13.0"
+glob = "*"
